@@ -1,13 +1,13 @@
 ## Personal Projects Showcase
 
-Welcome 👋 to a showcase of some of my development work. Please see the pinned 📍 projects below!
+Welcome to a showcase of some of my development work. Please see the pinned projects below!
 
 ### OpenAI GPTs
 
 GPTs are specialized instances of ChatGPT, customized to complete tasks in a specific manner, or
 to utilize bespoke information sources that may not have been included in the OpenAI training data.
 
-<table><tr valign="top"><td width="50%">
+<table><tr valign="top"><td width="50%" style="border-spacing: 100px;">
 
 #### :art: [Vector Le Magnifique](https://chat.openai.com/g/g-wagBADp7N-vector-le-magnifique)
 
