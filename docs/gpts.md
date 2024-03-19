@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Custom GPTs for ChatGPT Plus
+title: GPTs
 ---
 
 ## About
