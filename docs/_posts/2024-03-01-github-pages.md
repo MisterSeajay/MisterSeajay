@@ -8,13 +8,9 @@ tags:
   - Jekyll
 ---
 
----
-excerpt_separator: <!--more-->
----
 I'm starting to add GitHub pages to this "site", i.e. a personal page in GitHub.
 This page is a short collection of notes about how I managed it, especially if
 there were any gotchas even when following the official documentation.
-<!--more-->
 
 ## Official Documentation
 
