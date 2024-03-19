@@ -1,8 +1,6 @@
 ---
-layout: home
+layout: base
 ---
-
-# Home
 
 Welcome to a showcase of some of my development work, listed below. You can also
 find some of these projects as pinned repos at
