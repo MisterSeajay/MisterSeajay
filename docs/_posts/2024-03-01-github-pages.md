@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Getting started with GitHub Pages
+title: "GitHub: Getting started with GitHub Pages"
 categories:
   - GitHub
 tags:
@@ -8,9 +8,13 @@ tags:
   - Jekyll
 ---
 
+---
+excerpt_separator: <!--more-->
+---
 I'm starting to add GitHub pages to this "site", i.e. a personal page in GitHub.
 This page is a short collection of notes about how I managed it, especially if
 there were any gotchas even when following the official documentation.
+<!--more-->
 
 ## Official Documentation
 
@@ -89,3 +93,9 @@ layout: post
 title: Learning about GitHub Pages
 ---
 ```
+
+### Posts, Categories, Tags & Excerpts
+
+* [About Posts](https://jekyllrb.com/docs/posts/)
+* [Excerpts](https://jekyllrb.com/docs/posts/#post-excerpts)
+* [Tags and Categories](https://jekyllrb.com/docs/posts/#tags-and-categories)
