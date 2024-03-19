@@ -2,6 +2,7 @@ title: dev.joynt.co.uk
 description: Personal Projects Showcase
 theme: minima
 minima:
+  date_format: "%d %b %Y"
   skin: dark
   social_links:
   - { platform: github, user_url: "https://github.com/cjj1977" }
