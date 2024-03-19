@@ -2,7 +2,7 @@ title: dev.joynt.co.uk
 description: Personal Projects Showcase
 theme: minima
 minima:
-  skin: dark
+  skin: solarized-dark
   social_links:
     - { platform: github, user_url: "https://github.com/cjj1977" }
     - { platform: stackoverflow, user_url: "https://stackoverflow.com/users/5771128" }
