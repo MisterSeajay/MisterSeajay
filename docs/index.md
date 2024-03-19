@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: page
 ---
 
 Welcome to a showcase of some of my development work, listed below. You can also
@@ -12,7 +12,7 @@ GPTs are specialized instances of ChatGPT, customized to complete tasks in a
 specific manner, or to utilize bespoke information sources that may not have
 been included in the OpenAI training data.
 
-* [GPT development](./gpts.md)
+* [GPT development](https://gpt.joynt.co.uk)
 
 ## Python apps
 
