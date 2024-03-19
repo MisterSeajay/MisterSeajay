@@ -43,10 +43,11 @@ YAML at the top of each page (known as _Front Matter_) and/or in a
 
 ### Defaults
 
-Simply adding the `index.md` file in the `/docs/` folder seems to have created
+* Simply adding the `index.md` file in the `/docs/` folder seems to have created
 a simple site.
+* Using a custom DNS name created a file named **CNAME** in the `/docs/` path.
 
-## Config YAML file
+### Config YAML file
 
 The documentation seems to suggest that a `_config.yml` file will be created
 automatically; this didn't seem to happen so I have created one manually within
@@ -63,7 +64,7 @@ url: https://dev.joynt.co.uk
 theme: jekyll-theme-slate
 ```
 
-## Front Matter
+### Front Matter
 
 Each page in the Jekyll-themed site should have some lines of YAML at the very
 top, known as _Front Matter_.
