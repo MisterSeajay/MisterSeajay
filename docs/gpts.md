@@ -26,7 +26,7 @@ You can access the GPTs via the following links:
 An illustrator for RPG characters, capable of using character data from the D&D
 Beyond website.
 
-* [Vector Le Magnifique](https://chat.openai.com/g/g-wagBADp7N-vector-le-magnifique)
+### [Vector Le Magnifique](https://chat.openai.com/g/g-wagBADp7N-vector-le-magnifique)
 
 A creator of corporate illustrations, attempting to generate "flat" images
 commonly used in PowerPoint, etc.

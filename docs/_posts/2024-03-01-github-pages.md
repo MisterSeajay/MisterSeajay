@@ -65,9 +65,8 @@ which can be specified by adding `theme: jekyll-theme-NAME` in **_config.yml**:
 
 ``` yaml
 title: dev.joynt.co.uk
-description: Personal projects showcase
-url: https://dev.joynt.co.uk
-theme: jekyll-theme-slate
+description: Home
+theme: minima
 ```
 
 ### Front Matter
@@ -76,3 +75,12 @@ Each page in the Jekyll-themed site should have some lines of YAML at the very
 top, known as _Front Matter_.
 
 * [Front Matter documentation](https://jekyllrb.com/docs/front-matter/)
+
+For example, this "blog post" page has the following:
+
+``` yaml
+---
+layout: post
+title: Learning about GitHub Pages
+---
+```
