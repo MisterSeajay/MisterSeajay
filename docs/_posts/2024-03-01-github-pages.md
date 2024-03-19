@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Learning about GitHub Pages
 ---
 
@@ -33,6 +32,12 @@ own domain that points to _owner.github.io_.
 I have chosen to put my documents in the `/docs/` subfolder in my **main**
 branch, rather than use a separate `gh-pages` branch, at least for now. It seems
 a more intuitive to just use one branch from a personal GitHub Pages site.
+
+### Deployment
+
+Setting up the site as above has automatically created a GitHub Action that will
+build the site. The success (or otherwise) of these deployments can be seen in
+the **Actions** section of the repo.
 
 ## Jekyll
 
