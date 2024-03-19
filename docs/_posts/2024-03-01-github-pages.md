@@ -55,7 +55,7 @@ a simple site.
 
 ### Config YAML file
 
-The documentation seems to suggest that a `_config.yml` file will be created
+The documentation seems to suggest that a **_config.yml** file will be created
 automatically; this didn't seem to happen so I have created one manually within
 the `/docs/` folder.
 
