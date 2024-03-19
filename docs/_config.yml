@@ -1,6 +1,6 @@
 title: dev.joynt.co.uk
 description: Personal Projects Showcase
-theme: minima
+remote-theme: jekyll/minima
 minima:
   skin: dark
 header_pages:
