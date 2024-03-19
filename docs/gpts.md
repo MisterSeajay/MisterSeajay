@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GPTs
+title: gpts
 ---
 
 ## About

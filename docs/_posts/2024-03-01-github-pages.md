@@ -1,7 +1,11 @@
 ---
 layout: post
 title: Getting started with GitHub Pages
-tags: GitHub pages Jekyll
+categories:
+  - GitHub
+tags:
+  - GitHub Pages
+  - Jekyll
 ---
 
 I'm starting to add GitHub pages to this "site", i.e. a personal page in GitHub.
