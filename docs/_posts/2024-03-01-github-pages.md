@@ -46,6 +46,23 @@ YAML at the top of each page (known as _Front Matter_) and/or in a
 Simply adding the `index.md` file in the `/docs/` folder seems to have created
 a simple site.
 
+## Config YAML file
+
+The documentation seems to suggest that a `_config.yml` file will be created
+automatically; this didn't seem to happen so I have created one manually within
+the `/docs/` folder.
+
+This file defines the overall look and feel for the site, albeit with a number
+of options pre-defined by GitHub. There is a list of [supported themes](https://pages.github.com/themes/)
+which can be specified by adding `theme: jekyll-theme-NAME` in **_config.yml**:
+
+``` yaml
+title: dev.joynt.co.uk
+description: Personal projects showcase
+url: https://dev.joynt.co.uk
+theme: jekyll-theme-slate
+```
+
 ## Front Matter
 
 Each page in the Jekyll-themed site should have some lines of YAML at the very
