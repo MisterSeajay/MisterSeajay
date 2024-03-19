@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Learning about GitHub Pages
 ---
 
