@@ -1,4 +1,3 @@
 title: dev.joynt.co.uk
 description: Personal Projects Showcase
-theme: minima
-url: https://dev.joynt.co.uk
+remote_theme: samarsault/texture
