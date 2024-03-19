@@ -1,6 +1,5 @@
 ---
 layout: home
-title: "Home"
 ---
 
 Welcome to a showcase of some of my development work, listed below. You can also
