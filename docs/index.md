@@ -1,8 +1,7 @@
 ---
 layout: page
+title: Personal Project Showcase
 ---
-
-## Personal Project Showcase
 
 Welcome to a showcase of some of my development work, listed below. You can also
 find some of these projects as pinned repos at
@@ -32,16 +31,14 @@ and for creating command-line wrappers (i.e. PowerShell modules) for APIs, etc.
 
 ### Open Source projects
 
-I have made some contributions to Open Source project
+I have made some contributions to Open Source projects:
 
-#### [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+* [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+is a browser-based front-end for Stability Diffusion, a generative AI tool for
+creating images. I have contributed code and ideas to the project, especially in
+the module that enables use of pre-defined styles for images.
 
-AUTOMATIC1111/stable-diffusion-webui is a browser-based front-end for Stability
-Diffusion, a generative AI tool for creating images. I have contributed code and
-ideas to the project, especially in the module that enables use of pre-defined
-styles for images.
-
-#### [Siembol](https://siembol.io/)
-
-I have worked on the Siembol project professionally, acting as a product owner
-for the period that the project was active from (roughly) 2016-2020.
+* [Siembol](https://siembol.io/) is a real-time data processing engine, intended
+for use in a Cybersecurity detection & response context. I have worked on the
+Siembol project professionally, acting as a product owner for the period that
+the project was active from (roughly) 2016-2020.
