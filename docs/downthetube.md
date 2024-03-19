@@ -6,10 +6,10 @@ title: downthetube
 ## About
 
 This app uses Python's FastAPI to serve a (very) simple web UI that allows the
-user to submit a YouTube video URL so that the video can be downloaded by the
+user to submit a YouTube video URL so that the file can be downloaded by the
 app and served as a stand-alone video.
 
-## Purpose
+## Motivation
 
 The intention is to provide a means for family members to access YouTube videos
 even when they are blocked from accessing _youtube.com_ links directly. This was

@@ -1,3 +1,5 @@
 title: dev.joynt.co.uk
 description: Personal Projects Showcase
-remote_theme: pages-themes/slate
+remote_theme: mmistakes/minimal-mistakes@4.24.0
+plugins:
+  - jekyll-include-cache

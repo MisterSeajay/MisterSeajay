@@ -9,7 +9,7 @@ This app uses Google's text-to-speech API to generate audio clips of words and
 asks the users to type those words in a prompt. The UI is simply a terminal
 (shell) window.
 
-## Purpose
+## Motivation
 
 This app is meant to be used to help children practice spelling words that they
 may need to learn for school tests, etc.
