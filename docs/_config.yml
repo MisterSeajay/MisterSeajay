@@ -11,3 +11,5 @@ header_pages:
   - downthetube.md
   - spelling_test.md
 show_excerpts: true
+plugins:
+  - jekyll-remote-include
