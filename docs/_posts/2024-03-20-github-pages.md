@@ -16,7 +16,7 @@ down the latest version of the theme to support all the documented features.
 The breakthrough was as simple as reading the **_config.yml** file used by the
 GitHub Pages for the **jekyll/minima** theme itself:
 
-* https://github.com/jekyll/minima/blob/master/_config.yml
+* [jekyll/minima/_config.yml](https://github.com/jekyll/minima/blob/master/_config.yml)
 
 ## Configuration changes
 
