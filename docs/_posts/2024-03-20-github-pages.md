@@ -25,7 +25,7 @@ it with a `remote-theme` setting, like so:
 
 ``` yaml
 # As of November 2023, GitHub Pages still uses Minima 2.5.1
-# (https://pages.github.com/versions/). 
+# (https://pages.github.com/versions/).
 # If you want to use the latest Minima version on GitHub Pages, use the
 # following setting and add comment out the "theme: minima" line.
 remote_theme: jekyll/minima
