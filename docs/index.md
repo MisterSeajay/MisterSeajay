@@ -5,7 +5,7 @@ title: Personal Project Showcase
 
 Welcome to a showcase of some of my development work, listed below. You can also
 find some of these projects as pinned repos at
-[www.github.com/cjj1977](https://www.github.com/cjj1977).
+[www.github.com/MisterSeajay](https://www.github.com/MisterSeajay).
 
 ### OpenAI GPTs
 
