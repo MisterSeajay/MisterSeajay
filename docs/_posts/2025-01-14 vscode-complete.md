@@ -12,8 +12,8 @@ tags:
 ---
 
 Now that I am able to [run LLMs on my local network](.\2025-01-06 local-llms.md),
-I wanted to try to use LMStudio (in server mode) for code completion in VSCode,
-similar to how GitHub Copilot works.
+I wanted to use LMStudio (in server mode) for code completion in VSCode, similar
+to how GitHub Copilot works.
 
 VSCode supports additional functionality via extensions that can be added to the
 IDE via **.vsix** files downloaded from the [VSCode Marketplace](https://marketplace.visualstudio.com/VSCode).

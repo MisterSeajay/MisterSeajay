@@ -11,7 +11,7 @@ tags:
 
 While I have been happy using ChatGPT for generative AI tasks, especially as a
 co-pilot for coding and IT knowledge support, this all happens through the web
-UI provided by the LLM provider (OpenAI, Anthropic, etc.).
+UIs provided by the LLM provider (OpenAI, Anthropic, etc.).
 
 Some project that I have wanted to work on require access to APIs, which charge
 for access. While the prices aren't high, especially for relatively low usage,
